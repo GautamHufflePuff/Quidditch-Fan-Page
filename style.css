@@ -1,0 +1,48 @@
+body{
+background-color:indianred;
+}
+
+.book
+{
+  cursor: pointer;
+}
+
+.sport hr
+{
+  margin-bottom: 10px;
+}
+
+.modal-content
+{
+  margin-top: 100px;
+}
+
+.img_modal
+  {
+    display: inline-block;
+  }
+.p_modal
+  {
+      margin-top: 10px;
+      color: white;
+}
+.modal-body
+{
+    text-align: center
+}
+
+h2{
+color: white;
+}
+h3{
+color: white;
+}
+h4{
+color: white;
+}
+.text-primary{
+color: white;
+}
+.modal-content{
+background-color: indianred;
+}
